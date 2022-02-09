@@ -1,5 +1,4 @@
-# eb_cli
-Docker image build with eb_cli.
+# Elastic Beanstalk cli in docker image.
 
 You need `Docker` and `make` installed in your system.
 
